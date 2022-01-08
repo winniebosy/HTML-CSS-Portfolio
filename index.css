@@ -45,3 +45,16 @@ h1,h3,h3 {
      color:var(--hotmag);
      text-decoration: none;
  }
+
+
+ /* intro styling */
+  #intro {
+      padding-bottom: 10rem;
+  }
+  #intro p{
+     font-size: 1rem; 
+     line-height: 1.5;
+  }
+
+
+ /* intro styling ends here */

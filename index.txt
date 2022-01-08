@@ -14,4 +14,4 @@ ROOT IS IMPORTANT FOR SPECIFICITY.
 vARIABLES START WITH A DOUBLE DASH--
 PSEUDO ELEMENTS MAINLY DEAL WITH TEXT
 margins tend to collapse horizontally. eg 2rems margin to elmement + 1 rem margin of bottom element = 2 rems of margin betweeen the ELEMENTS
-
+Line height assists in preventing overlap.Leave out units of measure
