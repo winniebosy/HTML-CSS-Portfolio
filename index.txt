@@ -1,0 +1,8 @@
+use adobe color for colors
+Hi, my name is Winnie Bosibori.
+
+I develop and create accessible for all front end of websites.
+
+I'm a developer specializing in HTML, CSS, Accessibility and the MEVN stack.
+
+Currently, I'm looking for opportunities to become a part of an awesome team.
