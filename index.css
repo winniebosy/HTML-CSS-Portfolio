@@ -33,3 +33,15 @@ body {
     font-size: var(--font-size);
 
 }
+
+/*headings*/
+h1,h3,h3 {
+  margin: 0;  
+}
+ a{
+    color: var(--magenta);
+}
+ a:hover {
+     color:var(--hotmag);
+     text-decoration: none;
+ }
