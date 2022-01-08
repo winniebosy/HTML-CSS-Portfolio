@@ -6,3 +6,10 @@ I develop and create accessible for all front end of websites.
 I'm a developer specializing in HTML, CSS, Accessibility and the MEVN stack.
 
 Currently, I'm looking for opportunities to become a part of an awesome team.
+spans are important styling a section that is part of
+ the main section
+ Css variables aka css customs.
+ The column root in css shows the top of the HTML
+ROOT IS IMPORTANT FOR SPECIFICITY.
+vARIABLES START WITH A DOUBLE DASH--
+PSEUDO ELEMENTS MAINLY DEAL WITH TEXT
