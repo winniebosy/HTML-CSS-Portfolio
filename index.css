@@ -64,6 +64,10 @@ h1,h3,h3 {
      colot: var(--aqua);
      display:block;
   }
+  #intro h2 {
+      font-size: 4rem;
+      font-weight: normal;
+  }
 
 
  /* intro styling ends here */
