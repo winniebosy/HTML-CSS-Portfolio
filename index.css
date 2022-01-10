@@ -71,10 +71,17 @@ nav li:first-child{
     flex-basis: 100%;
     text-align: center;
 }
-nav [class*="fab-"] {
-    font-family: var(--aqua);
-    font-size:200%;
+
+nav [class*="fa-"] {
+    color: var(--aqua);
+    font-size:150%;
 }
+nav h1 [class*="fab-"] {
+    color: var(--aqua);
+    font: 200%;
+    
+}
+
 nav a {
     color: var(--white);
     text-decoration: none;
