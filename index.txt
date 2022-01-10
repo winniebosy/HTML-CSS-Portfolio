@@ -15,3 +15,5 @@ vARIABLES START WITH A DOUBLE DASH--
 PSEUDO ELEMENTS MAINLY DEAL WITH TEXT
 margins tend to collapse horizontally. eg 2rems margin to elmement + 1 rem margin of bottom element = 2 rems of margin betweeen the ELEMENTS
 Line height assists in preventing overlap.Leave out units of measure
+margin 0 auto works hand in hand with the width value
+
