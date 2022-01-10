@@ -18,3 +18,4 @@ Line height assists in preventing overlap.Leave out units of measure
 margin 0 auto works hand in hand with the width value
 The gap element in flexbox assign space elements in items.
 aria hidden true is particualry used to hide icons from screen readers. Especially when used for decorative purposes.
+nav [class*="fa-"] -tis is the attribute selector. It looks one of the particular attribute inside the html tag.
