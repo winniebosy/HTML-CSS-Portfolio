@@ -79,6 +79,7 @@ h1,h3,h3 {
     text-align: center;
     margin: 0 auto;
     padding: 3rem 0;
+    background-color: var(--plum);
 
   }
 
