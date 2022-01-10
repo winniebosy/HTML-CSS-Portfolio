@@ -71,3 +71,18 @@ h1,h3,h3 {
 
 
  /* intro styling ends here */
+
+ /* contact section  styling */
+
+  #contact {
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 3rem 0;
+
+  }
+
+  #contact p:last-child{
+      margin-top: 3rem;
+  }
+ /* contact section styling ends here */
