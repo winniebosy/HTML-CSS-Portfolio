@@ -150,7 +150,7 @@ nav li:first-child{
  /* contact section  styling */
 
   #contact {
-    width: 400px;
+    width: 100%;
     text-align: center;
     margin: 0 auto;
     padding: 3rem 0;
@@ -162,3 +162,24 @@ nav li:first-child{
       margin-top: 3rem;
   }
  /* contact section styling ends here */
+
+ /* footer section styling */
+
+footer{
+    text-align: center;
+}
+footer ul{
+   list-style-type: none;
+   padding:0;
+   margin: 2rem 0;
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: center;
+   gap: 3rem;
+   font-size: 3rem;
+
+
+}
+
+
+ /* footer section styling ends here*/
