@@ -91,7 +91,15 @@ nav a {
 nav a:hover, nav [class *="fa-"]:hover{
     color:var(--magenta)
 }
- nav
+ .button{
+     background-color: var(--magenta);
+     padding: 0.5rem;
+     border-radius: 5px;
+ }
+ .button:hover{
+     color:var(--white);
+     background-color: var(--hotmag);
+ }
 
 /* navigation section ends here */
 
