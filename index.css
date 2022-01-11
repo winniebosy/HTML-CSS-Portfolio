@@ -124,7 +124,9 @@ nav li:first-child{
 
  /* intro styling */
   #intro {
-      padding-bottom: 10rem;
+      padding-bottom: 4rem 1 rem 10rem 1rem;
+      max-width: 1200px;
+      margin: 0 auto;
   }
   #intro p{
      font-size: 1rem; 
@@ -157,7 +159,9 @@ nav li:first-child{
     background-color: var(--plum);
 
   }
-
+    small a {
+       text-decoration: none;
+   }
   #contact p:last-child{
       margin-top: 3rem;
   }
