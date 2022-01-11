@@ -33,6 +33,15 @@ body {
     font-size: var(--font-size);
 
 }
+.plum-section{
+    background-color: var(--plum);
+    
+}
+.gradient {
+
+    background: linear-gradient(90deg, rgba(255,23,228,1) 0%, rgba(134,251,251,1) 99%);
+    height: 2px;
+}
 
 /*headings*/
 h1,h3,h3 {
@@ -46,13 +55,19 @@ h1,h3,h3 {
      text-decoration: none;
  }
 
+
+ 
+
 /* navigation section */
 nav {
     font-family: var(--mono);
     font-size: 80%;
     padding: 1rem;
 }
+ .name {
 
+    padding: 5rem 0;
+ }
 nav h1 a{
     font-family: var(--sans);
 }
@@ -150,15 +165,17 @@ nav li:first-child{
  /* intro styling ends here */
 
  /* contact section  styling */
-
+ 
   #contact {
-    width: 100%;
+    width: 400px;
     text-align: center;
     margin: 0 auto;
     padding: 3rem 0;
-    background-color: var(--plum);
+    color:var(--white);
+    
 
   }
+  
     small a {
        text-decoration: none;
    }
@@ -174,7 +191,7 @@ footer{
 }
 footer ul{
    list-style-type: none;
-   padding:0;
+   padding:5rem 0;
    margin: 2rem 0;
    display: flex;
    flex-flow: row wrap;
