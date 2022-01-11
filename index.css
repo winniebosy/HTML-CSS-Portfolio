@@ -76,7 +76,7 @@ nav [class*="fa-"] {
     color: var(--aqua);
     font-size:150%;
 }
-nav h1 [class*="fab-"] {
+nav h1 [class*="fa-"] {
     color: var(--aqua);
     font: 200%;
     
@@ -88,10 +88,10 @@ nav a {
     display: block;
 
 }
-nav a:hover{
+nav a:hover, nav [class *="fa-"]:hover{
     color:var(--magenta)
 }
-
+ nav
 
 /* navigation section ends here */
 
