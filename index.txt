@@ -20,4 +20,5 @@ The gap element in flexbox assign space elements in items.
 aria hidden true is particualry used to hide icons from screen readers. Especially when used for decorative purposes.
 nav [class*="fa-"] -tis is the attribute selector. It looks one of the particular attribute inside the html tag.
 One can also style a link to look like a button.
+Line height: This property is most often used to set the leading for lines of text.
 <small></small> tag is recommended for disclaimers, copyright info, TOC.
