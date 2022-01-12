@@ -42,6 +42,9 @@ body {
     background: linear-gradient(90deg, rgba(255,23,228,1) 0%, rgba(134,251,251,1) 99%);
     height: 2px;
 }
+.section-dblue{
+    background-color: var(--dkblue);
+}
 
 /*headings*/
 h1,h3,h3 {
@@ -117,7 +120,7 @@ nav a:hover, nav [class *="fa-"]:hover{
  }
 
 
-
+/* media query for nav */
  @media(min-width:850px){
      nav{
         max-width:1200px;
@@ -163,6 +166,33 @@ nav li:first-child{
 
 
  /* intro styling ends here */
+
+
+ /* project section */
+
+#projects {
+    padding: 4rem 1rem;
+
+}
+#projects h2 {
+    font-size: 2.5rem;
+    margin-bottom: calc(2.5rem * 1.5);
+}
+#project h3 {
+    color: var(--aqua);
+}
+#project h4 {
+    font-size: 1rem;
+    font-family: var(--mono);
+    margin: 0;
+    
+}
+
+
+
+
+
+ /* project section ends here */
 
  /* contact section  styling */
  
