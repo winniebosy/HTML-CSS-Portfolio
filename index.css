@@ -206,7 +206,13 @@ justify-content: flex-start;
 gap: 1rem;
 font-size: 1rem;
 }
+#projects img {
+ margin: 2rem 0 4rem 0;
+ border: 1px solid var(--aqua);
+ border-radius: 25px;
+ padding: 1rem;
 
+}
 
 
 

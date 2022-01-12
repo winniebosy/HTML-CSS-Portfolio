@@ -22,3 +22,4 @@ nav [class*="fa-"] -tis is the attribute selector. It looks one of the particula
 One can also style a link to look like a button.
 Line height: This property is most often used to set the leading for lines of text.
 <small></small> tag is recommended for disclaimers, copyright info, TOC.
+Grid can overlap two cells against each other unlike flexbox
