@@ -185,7 +185,15 @@ nav li:first-child{
     font-size: 1rem;
     font-family: var(--mono);
     margin: 0;
+    color: var(--white);
+    font-size: 1rem;
+    line-height: 1.5;
     
+}
+.blackbox {
+    background-color: var(--black);
+    padding: 1rem;
+    border-radius: 10px;
 }
 
 
